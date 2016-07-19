@@ -1,0 +1,106 @@
+h1{
+	text-align: center;
+	font-size: 40px ;
+	text-indent: 10%;
+	border-color: gray;
+	border-style: solid;
+	padding-top: 5px;
+	background-image: url(img/piedra.jpg);
+   }
+  #css-zen-garden{
+  	background-image: url(img/budismo3.jpg);
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-position: center;
+  }
+.summary p {
+	color: gray;
+	font-size: 20px;
+	font-family: Verdana;
+   }
+.summary {
+	text-align: center;
+   }
+.preamble {
+	color: gray;
+	font-size: 16px;
+	font-family: Verdana;
+}
+.explanation p{
+	color: gray;
+	font-size: 16px;
+	font-family: Verdana;
+}
+.medit{
+	height: 300px;
+	width: 1400px;
+    }
+.explanation{
+    	text-align: left;
+	top:492px;
+    right:10px;
+    width:900px;
+    }
+body{
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	margin: 0; 
+	padding: 0;
+}
+#zen-supporting{
+	border-style:  solid;
+	border-color: gray;
+	}
+.participation p{
+	color: gray;
+	font-size: 16px;
+	font-family: Verdana;
+	}
+	.benefits p{
+	color: gray;
+	font-size: 16px;
+	font-family: Verdana;
+	}
+.requirements p{
+	color: gray;
+	font-size: 16px;
+	font-family: Verdana;
+}
+.footer{
+	text-align: center; 
+	}
+.sidebar {
+    margin-top: -320px;
+}
+a{
+	color:black;
+	font-family: Verdana;
+}
+
+.preamble{
+	text-align: right;
+}
+h3{
+	color: black;
+	background-image: url(img/piedra.jpg);
+	border-color: gray;
+	border-style: solid;
+}
+.design-selection{
+	position:relative;
+    top:610px;
+    right:5px;
+    width:200px
+ }
+ .design-selection li{
+ 	font-family: Verdana;
+ }
+.summary{
+	text-align: left;
+}
+.preamble h3{
+	text-align: left;
+}
+.preamble p{
+	text-align: left;
+}
